@@ -1,0 +1,16 @@
+{
+  "start_url": "https://vk.com/",
+  "account_email": "automationtest.noreply@gmail.com",
+  "account_password": "PasswordForTest17",
+  "user_id": 663866097,
+  "api_url": "https://api.vk.com/",
+  "api_version": "5.52",
+  "access_token": "9c92a78e65954baa4182fd6e89eb2fc895af3b6746719b6b1d8935f22506c435dbb0ad6641f2e231dbac3&expires_in=0&user_id=663866097",
+  "wall_post": "method/wall.post",
+  "wall_edit": "method/wall.edit",
+  "wall_upload": "method/photos.getWallUploadServer",
+  "wall_savePhoto": "method/photos.saveWallPhoto",
+  "likes_isLiked": "method/likes.isLiked",
+  "wall_create_comment": "method/wall.createComment",
+  "wall_delete": "method/wall.delete"
+}
