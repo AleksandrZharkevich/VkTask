@@ -21,9 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Resources\settings.json">
+    <!--<None Update="Resources\settings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
